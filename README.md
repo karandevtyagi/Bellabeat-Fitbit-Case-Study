@@ -75,9 +75,7 @@ Available to us are 18 CSV documents. Each document represents different quantit
 
 ## Process
 
-Knowing the datasets we have, we will upload the datasets that will help us answer our business task.
-
-Knowing the datasets, I will upload the datasets that will help us answer our business task.
+Knowing the datasets, I have uploaded the datasets that will help us answer our business task.
 I cleaned and combined hourly data in colab as big query charges money to export files. To combine daily data I used SQL workbench.
 To follow steps, I have provied both the notebook and and sql script.
 
